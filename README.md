@@ -24,7 +24,7 @@
 * **Група:** [КВ-34]
 
 ## Звіт
-📄 **[Посилання на документ звіту на Google Drive][(ВСТАВТЕ_ВАШЕ_ПОСИЛАННЯ_ТУТ)](https://docs.google.com/document/d/1N7K1MWWaFs5U2NJKAGCrkVYa_JR3IDCYcWh9CGc75sI/edit?usp=sharing)**
+📄 **[Посилання на документ звіту на Google Drive][(https://docs.google.com/document/d/1N7K1MWWaFs5U2NJKAGCrkVYa_JR3IDCYcWh9CGc75sI/edit?usp=sharing)]**
 
 ## Завдання до лабораторної роботи
 **Тема:** Розробка функціональності Web-додатка мовою Javascript.
