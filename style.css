@@ -1,0 +1,37 @@
+/* Основні стилі */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+main { flex: 1; }
+
+/* Навігація: логотип зліва, меню справа */
+.nav-logo {
+    height: 35px;
+    width: auto;
+    margin-right: 10px;
+}
+
+/* Логотип на головній сторінці */
+.main-logo {
+    max-width: 150px;
+    height: auto;
+    border-radius: 15px;
+}
+
+/* Таблиця профілю */
+.profile-table {
+    background: white;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+footer {
+    background: #212529;
+    color: #888;
+    padding: 15px 0;
+    text-align: center;
+}
