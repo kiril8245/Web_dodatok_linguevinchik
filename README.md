@@ -64,7 +64,8 @@
 * **Студент:** Hudyma Kyrylo
 * **Група:** [КВ-34]
 ### Посилання на звіт
-* **Звіт у Google Drive:** [https://docs.google.com/document/d/1Q_mJTiwZ8pbTwH7I9kgmmbfD5XuuU7JIks-4nK7mbeM/edit?usp=sharing ](https://docs.google.com/document/d/1N7K1MWWaFs5U2NJKAGCrkVYa_JR3IDCYcWh9CGc75sI/edit?usp=sharing)
+* **Звіт у Google Drive:**
+* https://docs.google.com/document/d/1KW6y6Vy7Kic8jepXH9D5AS9q6ZEyJCqHVuWfvTqk_U4/edit?usp=sharing
 * 
 Linguevinchik — це клієнт-серверний Web-додаток для інтерактивного вивчення іноземної лексики. Додаток дозволяє користувачам ефективно запам'ятовувати нові слова за допомогою карток та перевіряти свої успіхи у режимі тестування. 
 
